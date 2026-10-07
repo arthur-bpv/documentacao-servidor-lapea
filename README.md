@@ -19,7 +19,7 @@ Solicita-se à TI avaliar conectividade estável sem autenticação pessoal inte
 
 ## Responsáveis e evidências
 
-Responsável institucional indicado: professor Rone, informado pelo proponente como responsável pelo laboratório e diretor de pesquisas do campus. Nome completo, cargo oficial e contato institucional: **a confirmar**. A administração técnica cabe a professores responsáveis e alunos expressamente autorizados.
+Responsável institucional indicado: professor Rodrigo Ronner, informado pelo proponente como responsável pelo laboratório e diretor de pesquisas do campus. Nome completo, cargo oficial e contato institucional: **a confirmar**. A administração técnica cabe a professores responsáveis e alunos expressamente autorizados.
 
 A base principal é o arquivo `Contexto_Codex_Documentacao_Servidor_LAPEA.md`, fornecido na raiz do workspace. Os dados da imagem de inventário foram transcritos nesse contexto; a imagem original não foi inspecionada nesta elaboração. Foram lidos documentos e configurações versionadas dos projetos locais, sem inspeção do estado de execução do servidor, auditoria de rede ou teste de acesso.
 
