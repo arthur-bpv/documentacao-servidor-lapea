@@ -24,7 +24,7 @@ Esses procedimentos são propostas documentais; nenhum foi executado nesta taref
 | Pendência | Encaminhamento sugerido | Estado / resultado |
 | --- | --- | --- |
 | Denominação oficial e grafia LAPEA | Responsável institucional | A confirmar |
-| Nome completo, cargo, contato e substituto do professor Rone | Laboratório / gestão do campus | A confirmar |
+| Nome completo, cargo, contato e substituto do professor Ronner | Laboratório / gestão do campus | A confirmar |
 | Repositório desta documentação e URLs dos projetos | Responsáveis acadêmicos / projetos | Repositório da documentação definido no README; URLs dos projetos a confirmar |
 | Inventário físico, versões e eventuais divergências | Administradores autorizados | A confirmar com novo registro datado |
 | Interface e identificação do equipamento para cadastro | Laboratório com TI local, em anexo restrito | A preencher |
