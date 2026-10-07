@@ -2,7 +2,7 @@
 
 ## Finalidade e justificativa
 
-O LAPEA pretende oferecer um ambiente para alunos e professores hospedarem, testarem e demonstrarem projetos integradores, serviços e ideias. Outras pessoas poderão experimentar as funcionalidades durante aulas, demonstrações e avaliações, sem nova contratação de nuvem ou implantação central para cada experimento.
+O LAPEA pretende oferecer um ambiente para alunos e professores hospedarem, testarem e demonstrarem projetos, serviços e ideias. Outras pessoas poderão experimentar as funcionalidades durante aulas, demonstrações e avaliações, sem nova contratação de nuvem ou implantação central para cada experimento.
 
 O ambiente Linux apoia práticas de administração de sistemas, aplicações, contêineres, bancos de dados e comunicação cliente-servidor. Segundo o proponente, a maioria das estações do campus utiliza Windows. Centralizar ambientes de execução pode reduzir instalações repetidas de dependências, XAMPP e máquinas virtuais nas estações, complementando as ferramentas disponíveis; Windows também atende ao desenvolvimento e Linux não é requisito universal dos projetos.
 
