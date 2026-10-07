@@ -1,7 +1,6 @@
 # Servidor educacional do LAPEA — IFRN Campus Mossoró
 
-Documentação técnica para avaliação da TI de Natal, em articulação com a TI do campus, e continuidade por professores e alunos autorizados. Versão inicial: 7 de outubro de 2026. **Proposta em análise, sem aprovação institucional registrada.** LAPEA é a identificação provisória; denominação completa e grafia oficial estão a confirmar.
-
+Documentação técnica para avaliação da TI de Natal, em articulação com a TI do campus, e continuidade por professores e alunos autorizados. Versão inicial: 7 de outubro de 2026. **Proposta em análise, sem aprovação institucional registrada.**
 O servidor oferece um ambiente local compartilhado para hospedar, testar e demonstrar projetos e atividades práticas. A prioridade é permitir que a comunidade na rede autorizada do campus acesse serviços educacionais, mantendo a administração privada por Tailscale.
 
 ## Situação atual e resultado solicitado
