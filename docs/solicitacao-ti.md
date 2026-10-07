@@ -6,7 +6,7 @@
 
 À equipe de TI de Natal, em articulação com a TI do Campus Mossoró,
 
-Solicitamos avaliação de viabilidade para disponibilizar, na rede institucional autorizada do campus, serviços educacionais hospedados no servidor do laboratório provisoriamente identificado como LAPEA. O responsável institucional indicado é o professor Rone; nome completo, denominação oficial do cargo, contato e nome oficial do laboratório serão confirmados antes do encaminhamento.
+Solicitamos avaliação de viabilidade para disponibilizar, na rede institucional autorizada do campus, serviços educacionais hospedados no servidor do laboratório provisoriamente identificado como LAPEA. O responsável institucional indicado é o professor Ronner; nome completo, denominação oficial do cargo, contato e nome oficial do laboratório serão confirmados antes do encaminhamento.
 
 O equipamento serve de ambiente compartilhado para testes, aulas, demonstrações e projetos integradores. Os usos incluem sites do NEABI e NUARTE em testes, uma aplicação Laravel para atividades de banco de dados, proposta de cálculos químicos, prática didática de FTP e estudos de multiplayer em jogo educacional. Os estados de implantação variam e estão registrados no [catálogo](projetos-e-servicos.md).
 
