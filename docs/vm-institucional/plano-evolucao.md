@@ -36,7 +36,7 @@ As fases não têm prazos fixados. Segurança, backups e gestão de acessos não
 ## 4. Requisitos iniciais a negociar
 
 - Linux Server LTS ou distribuição aprovada pela TI.
-- Dimensionamento **indicativo**: 2 vCPU, 4 GiB RAM, 40 GiB de armazenamento, sujeito à disponibilidade e revisão.
+- Dimensionamento **indicativo**: 2 vCPU, 4 GiB RAM, 80 GiB de armazenamento, sujeito à disponibilidade e revisão.
 - IP privado gerenciado e conectividade suficiente para atualizações autorizadas.
 - Acesso SSH individual, preferencialmente por chaves, com privilégios sudo apenas para administradores designados.
 - Orientação da TI sobre backup/snapshot, restauração, manutenção e tratamento de incidentes.
