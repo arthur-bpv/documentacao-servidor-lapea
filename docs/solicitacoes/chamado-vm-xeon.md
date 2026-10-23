@@ -10,7 +10,7 @@ Solicitamos a avaliação e, se tecnicamente viável, o provisionamento de uma m
 
 A proposta prevê **implantação gradual**. Inicialmente, o ambiente será utilizado por equipe restrita e autorizada para aprender e praticar acesso SSH, administração básica de Linux, configuração de serviços e execução de aplicações de teste. Em etapas posteriores, conforme capacitação da equipe e autorização da TI, pretende-se estudar contêineres (Docker), automação de implantação (possivelmente Coolify) e disponibilização de projetos acadêmicos à comunidade do campus, exclusivamente nas redes institucionais autorizadas.
 
-Como referência inicial, sugerimos **2 vCPU, 4 GiB de RAM e 40 GiB de armazenamento**, sujeitos à disponibilidade, aos padrões adotados e ao dimensionamento definido pela TI. Solicitamos orientação sobre a distribuição Linux adequada, endereçamento, acesso administrativo e mecanismos institucionais de backup e recuperação.
+Como referência inicial, sugerimos **2 vCPU, 4 GiB de RAM e 80 GiB de armazenamento**, sujeitos à disponibilidade, aos padrões adotados e ao dimensionamento definido pela TI. Solicitamos orientação sobre a distribuição Linux adequada, endereçamento, acesso administrativo e mecanismos institucionais de backup e recuperação.
 
 Conforme diálogo preliminar relatado pela equipe proponente, está prevista a disponibilização de **acesso sudo a administradores autorizados do LAPEA**. Solicitamos formalizar as condições desse acesso, a identificação individual dos responsáveis e as regras de segurança e suporte aplicáveis.
 
