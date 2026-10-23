@@ -15,8 +15,8 @@ Não se deve descrever a VM como existente ou os projetos futuros como implantad
 
 ## 2. Responsáveis propostos
 
-- **Professor Rafael (programação):** interlocução acadêmica sobre a VM, projetos, desenvolvimento e, futuramente, contêineres e implantação.
-- **Professor Rodrigo Ronner (redes):** interlocução acadêmica sobre acesso administrativo, conectividade, VPN, DNS e fluxos institucionais.
+- **Professor Rafael Castro de Souza (programação):** interlocução acadêmica sobre a VM, projetos, desenvolvimento e, futuramente, contêineres e implantação.
+- **Professor Rodrigo Ronner Tertulino da Silva (redes):** interlocução acadêmica sobre acesso administrativo, conectividade, VPN, DNS e fluxos institucionais.
 - **TI do campus e demais instâncias competentes:** provisionamento, infraestrutura, políticas de rede e condições de segurança conforme atribuições institucionais.
 - **Equipe autorizada do LAPEA:** administração do sistema operacional com sudo, conforme entendimento preliminar relatado pelo proponente, ainda sujeito à formalização de contas, responsáveis e limites de atuação.
 
