@@ -1,6 +1,6 @@
 # Minuta — solicitação de máquina virtual institucional
 
-**Estado:** rascunho para revisão e eventual encaminhamento pelo professor Rafael; não protocolado.  
+**Estado:** rascunho para revisão e eventual encaminhamento pelo professor Rafael Castro de Souza; não protocolado.  
 **Destinatário:** equipe de TI competente do IFRN Campus Mossoró, com eventual articulação com instâncias sistêmicas conforme fluxo institucional.  
 **Assunto sugerido:** Solicitação de máquina virtual Linux para atividades acadêmicas do LAPEA
 
@@ -18,7 +18,7 @@ Para a administração remota, solicitamos também **orientação e avaliação 
 
 **Não solicitamos neste primeiro momento** a abertura geral de serviços web, liberação de comunicação entre VLANs, acesso pela Eduroam, registros DNS ou exposição à internet. Eventuais necessidades de conectividade para aplicações e publicação institucional serão detalhadas em solicitação específica após a consolidação do ambiente de testes.
 
-Como referências acadêmicas para o acompanhamento, propomos o **professor Rafael**, nas questões de desenvolvimento e aplicações, e o **professor Rodrigo Ronner**, nas questões de redes e conectividade, sujeitos à anuência e designação institucional.
+Como referências acadêmicas para o acompanhamento, propomos o **professor Rafael Castro de Souza**, nas questões de desenvolvimento e aplicações, e o **professor Rodrigo Ronner Tertulino da Silva**, nas questões de redes e conectividade, sujeitos à anuência e designação institucional.
 
 Agradecemos a avaliação de viabilidade e as orientações sobre o procedimento de criação da VM, as condições de acesso e as responsabilidades de operação.
 
@@ -31,8 +31,8 @@ Atenciosamente,
 
 ## Notas internas antes do protocolo
 
-- Confirmar o nome completo, a anuência e o vínculo do professor Rafael.
-- Confirmar a designação e os dados oficiais do professor Rodrigo Ronner.
+- Confirmar o nome completo, a anuência e o vínculo do professor Rafael Castro de Souza.
+- Confirmar a designação, o vínculo e o contato institucional do professor Rodrigo Ronner Tertulino da Silva.
 - Confirmar o setor e o canal corretos para o chamado.
 - Não afirmar que a VM já foi aprovada ou criada.
 - Anexar, se conveniente, o [plano de evolução](../vm-institucional/plano-evolucao.md).
