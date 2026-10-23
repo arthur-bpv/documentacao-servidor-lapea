@@ -10,7 +10,7 @@ O servidor físico é destinado a projetos internos do laboratório. Foram relat
 
 **Não se conclui**, sem testes e análise da TI, que exista bloqueio deliberado de VPN, erro específico de firewall ou problema em uma VLAN determinada.
 
-Pedido futuro ao professor Rodrigo Ronner / TI: diagnóstico da conectividade e definição de acesso remoto autorizado, incluindo a possibilidade de manutenção ou substituição da Tailscale por solução institucional adequada.
+Pedido futuro ao professor Rodrigo Ronner Tertulino da Silva / TI: diagnóstico da conectividade e definição de acesso remoto autorizado, incluindo a possibilidade de manutenção ou substituição da Tailscale por solução institucional adequada.
 
 ### B. VM no servidor Xeon — acesso administrativo inicial
 
@@ -32,8 +32,8 @@ Quando houver aplicações validadas, abrir demanda específica para avaliação
 
 ## 2. Divisão acadêmica proposta
 
-- **Rodrigo Ronner:** articulação de redes, VPN, roteamento, DNS e fluxos.
-- **Rafael:** justificativa de aplicações e requisitos de publicação.
+- **Rodrigo Ronner Tertulino da Silva:** articulação de redes, VPN, roteamento, DNS e fluxos.
+- **Rafael Castro de Souza:** justificativa de aplicações e requisitos de publicação.
 - **TI:** decisão técnica e autorização sobre rede, endereçamento, segurança e meios de acesso.
 
 ## 3. Segurança mínima
