@@ -1,3 +1,5 @@
+> **ARQUIVADO — versão histórica (07/10/2026).** Este documento registra a proposta anterior, centrada na publicação de serviços pelo servidor físico do LAPEA. **Não representa o plano vigente nem um chamado pronto para envio.** A arquitetura provisória atual distingue o [servidor físico do laboratório](servidor-fisico-lapea.md) da [VM institucional no Xeon](vm-institucional/plano-evolucao.md); a [minuta atual do chamado](solicitacoes/chamado-vm-xeon.md) substitui a solicitação antiga. Dados de inventário e implantação não foram revalidados.
+
 # Proposta técnica
 
 ## Finalidade e justificativa
