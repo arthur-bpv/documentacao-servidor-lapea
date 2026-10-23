@@ -9,12 +9,16 @@ Documentação técnica e propostas para avaliação da TI e acompanhamento por 
 
 ## Próximos passos
 
-1. Submeter à TI, após revisão do professor Rafael, a solicitação inicial de VM Linux com acesso administrativo individual e sudo para responsáveis autorizados.
+1. Submeter à TI, após revisão do professor Rafael Castro de Souza, a solicitação inicial de VM Linux com acesso administrativo individual e sudo para responsáveis autorizados.
 2. Aprender administração Linux e implantação manual de uma aplicação simples, com controles de segurança definidos pela TI.
 3. Avaliar Docker, proxy reverso e Coolify de forma incremental, com alunos limitados aos próprios projetos.
 4. Solicitar separadamente a avaliação dos fluxos de rede, DNS e HTTPS para publicação institucional.
 
 A VPN é uma **possibilidade a avaliar** desde o primeiro chamado, sem condicionar a criação da VM. Tailscale já é conhecida pela equipe; Fortinet/FortiVPN é referência externa observada na UERN, não solução presumidamente homologada no IFRN.
+
+## Documentação atual provisória
+
+- [Servidor físico LAPEA — estado e objetivos atuais](docs/servidor-fisico-lapea.md)
 
 ## Documentos de planejamento novos
 
@@ -22,9 +26,9 @@ A VPN é uma **possibilidade a avaliar** desde o primeiro chamado, sem condicion
 - [Minuta do primeiro chamado para criação da VM](docs/solicitacoes/chamado-vm-xeon.md)
 - [Planejamento de rede e VPN — duas demandas distintas](docs/solicitacoes/plano-rede-vpn.md)
 
-## Documentação histórica do servidor físico LAPEA
+## Arquivo histórico — proposta anterior (07/10/2026)
 
-Os documentos abaixo foram preservados nesta primeira revisão. **Alguns descrevem a arquitetura anterior de um único servidor físico com acesso mais amplo; devem ser lidos como registros históricos e serão revisados em etapa posterior.**
+**ARQUIVADO:** os documentos abaixo foram preservados em seus caminhos originais para manter links e rastreabilidade, mas receberam aviso explícito de arquivamento. Refletem a proposta antiga de acesso comunitário ao servidor físico e **não devem ser usados como orientação vigente ou como chamado para envio**. A documentação atual é provisória e está nos links acima.
 
 - [Proposta técnica original](docs/proposta-tecnica.md)
 - [Inventário e modelos conceituais](docs/infraestrutura.md)
@@ -34,10 +38,10 @@ Os documentos abaixo foram preservados nesta primeira revisão. **Alguns descrev
 
 ## Responsabilidades acadêmicas propostas
 
-- **Professor Rafael:** articulação da solicitação da VM e acompanhamento das aplicações.
-- **Professor Rodrigo Ronner:** articulação das questões de rede, VPN e conectividade.
+- **Professor Rafael Castro de Souza:** articulação da solicitação da VM e acompanhamento das aplicações.
+- **Professor Rodrigo Ronner Tertulino da Silva:** articulação das questões de rede, VPN e conectividade.
 - **TI:** definição de provisionamento, redes, regras institucionais e condições de segurança.
 
-Os nomes, funções formais, anuência e contatos dos responsáveis deverão ser confirmados antes de protocolar solicitações.
+Os nomes completos foram informados pelo proponente; funções formais, anuência e contatos institucionais ainda deverão ser confirmados antes de protocolar solicitações.
 
 **Segurança documental:** não publicar credenciais, tokens, chaves privadas ou detalhes operacionais restritos. A documentação não substitui análise e autorização institucional.
